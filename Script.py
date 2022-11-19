@@ -1,16 +1,6 @@
 class script(object):
-    START_TXT = """<b>Hello {} 👋🏻 Im Search Bot I can share Movies and Series 😁.</b>
-    
-  𝙅𝙤𝙞𝙣 @nvsmovielink
-
-○ Notice 📙:-
-
-○Dont Spam Me...🤒
-
-😎 Powered by @tgnvs
-
-©️ Maintained By @nvscloudx
-"""
+    START_TXT = """𝙷𝙴𝙻𝙾 {},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 ♥️♥️🔥"""
 
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.
@@ -19,16 +9,16 @@ class script(object):
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @tgnvs @nvsmovielink
+😎 Powered by @MRAUPLOADS
 
-©️ Maintained By @nvscloudx"""
+©️ Maintained By @Om56577"""
 
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/angel_luciferbot><b>𝙻𝚄𝙲𝙸𝙵𝙴𝚁 𝙼𝙾𝚁𝙽𝙸𝙽𝙶𝚂𝚃𝙰𝚁</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/nvscloudx><b>𝙽𝚅𝚂𝙲𝙻𝙾𝚄𝙳𝚇</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/Om56577><b>OM-I</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Om56577><b>OM-I</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : 𝚅𝙿𝚂\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/tgnvs><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/MRAUPLOADS><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>Donation</b>
 <b>Thanks for showing interest in donation
@@ -41,8 +31,8 @@ Of 10₹,20₹,30₹,50₹,100₹ 😁
 
 💸Payment Methods:
 Only UPI
-UPI:-</b> tgnvs@airtel
--<b> <a href=https://upier.vercel.app/pay/tgnvs@airtel?am=15>Donation Link</a></b>"""
+UPI:-</b> om56577@postbank
+-<b> <a href=https://upier.vercel.app/pay/om56577@postbank?am=15>Donation Link</a></b>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
